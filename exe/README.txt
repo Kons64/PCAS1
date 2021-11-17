@@ -3,15 +3,15 @@ The prototype itself is pretty straight forward. each button in the main menu ta
 There are 3 scenarios, 
 first scenario: the pedestrian is first moving then stopped. There are 4 variants to this scenario:
 (for coordinates please refer to page 4 of the project description)
-	Initial pedestrian positiposition at -7m, starts moving at the speed of 10kph, stops at 0m;
-	Initial pedestrian positiposition at -7m, starts moving at the speed of 10kph, stops at -2m;
-	Initial pedestrian positiposition at -7m, starts moving at the speed of 10kph, stops at -3m;
-	Initial pedestrian positiposition at -7m, starts moving at the speed of 10kph, stops at -5m;
+	Initial pedestrian position at -7m, starts moving at the speed of 10kph, stops at 0m;
+	Initial pedestrian position at -7m, starts moving at the speed of 10kph, stops at -2m;
+	Initial pedestrian position at -7m, starts moving at the speed of 10kph, stops at -3m;
+	Initial pedestrian position at -7m, starts moving at the speed of 10kph, stops at -5m;
 
 second scenario: the pedestrian is first static then crossing the street. There are 3 variants to this scenario:
-	Initial pedestrian positiposition at 0m, and he sits for 1.5 seconds, then start to cross at the speed of 10kph;
-	Initial pedestrian positiposition at -2m, and he sits for 1.8 seconds, then start to cross at the speed of 10kph;
-	Initial pedestrian positiposition at -4m, and he sits for 1.1 seconds, then start to cross at the speed of 10kph;
+	Initial pedestrian position at 0m, and he sits for 1.5 seconds, then start to cross at the speed of 10kph;
+	Initial pedestrian position at -2m, and he sits for 1.8 seconds, then start to cross at the speed of 10kph;
+	Initial pedestrian position at -4m, and he sits for 1.1 seconds, then start to cross at the speed of 10kph;
 
 Third scenario: the pedestrian is standing still. There are 3 variants to this scenario:
 	The pedestrian waits at 0m away from the road;

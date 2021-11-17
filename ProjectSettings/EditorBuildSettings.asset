@@ -19,16 +19,16 @@ EditorBuildSettings:
     guid: df0b8a5430e2f0548a864cfafc747ae1
   - enabled: 1
     path: Assets/scene/MovingThenStop/1.unity
-    guid: a420701e09652404c9a8ecf67fd95093
+    guid: be81f35fb74c0fe4184b4b6a22a6b7b3
   - enabled: 1
     path: Assets/scene/MovingThenStop/2.unity
     guid: 52242f42791d5d0478fc43859192af63
   - enabled: 1
     path: Assets/scene/MovingThenStop/3.unity
-    guid: 70b8df2c938cd28428c44b170df6c040
+    guid: ce3a062ba0aea3144a4af1392cef291a
   - enabled: 1
     path: Assets/scene/MovingThenStop/4.unity
-    guid: e03b916cbcc63cd45892363b8772f9f0
+    guid: 67279e044931e7944aaee1e1bbe6a23f
   - enabled: 1
     path: Assets/scene/StaticThenMoving/5.unity
     guid: c69a20fbf0e8b084d8b3fdabc10312c8
