@@ -22,3 +22,5 @@ The car stops moving when the simulation ends, you can click the "back" button o
 In different scenarios, the car with PCAS will never have collision with the pedestrians, or slow down when it doesn't need to.
 
 Thank you!
+
+Project proposal: https://www.cse.msu.edu/~cse435/Projects/F2021/ProjectDescriptions/2021-PCAS-Dataspeed-Capaldi-AV-Pedestrian-Project.pdf
