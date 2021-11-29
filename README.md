@@ -23,4 +23,6 @@ In different scenarios, the car with PCAS will never have collision with the ped
 
 Thank you!
 
+Known issue: the prototype may behave weird if the project's refresh rate is low
+
 Project proposal: https://www.cse.msu.edu/~cse435/Projects/F2021/ProjectDescriptions/2021-PCAS-Dataspeed-Capaldi-AV-Pedestrian-Project.pdf
